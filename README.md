@@ -132,4 +132,4 @@ Expected output: **17 tests, 0 failures.**
 ## Author
 
 **Prasanna Chidambar Marihalkar**  
-First-Year CSE · PES University, RR Campus · DecodeLabs Batch 2026
+ CSE · PES University, RR Campus · DecodeLabs Batch 2026
